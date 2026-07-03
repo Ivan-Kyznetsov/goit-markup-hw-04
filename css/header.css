@@ -37,6 +37,10 @@
   padding: 24px 0;
 }
 
+.current.header-nav-link {
+  color: #404bbf;
+}
+
 .current.header-nav-link::after {
   position: absolute;
   bottom: 0;

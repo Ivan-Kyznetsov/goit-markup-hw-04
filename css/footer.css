@@ -44,4 +44,10 @@
 
 .footer-social-list.social-list {
   margin-top: 16px;
+  column-gap: 16px;
+}
+
+.footer-social-link.social-link:hover,
+.footer-social-link.social-link:focus {
+  background-color: #31d0aa;
 }
